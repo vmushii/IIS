@@ -70,7 +70,7 @@ class FileDatasource:
             if i < len(parking_data_custom):
                 parking = parking_data_custom[i]
             else:
-                parking = Parking(0, Gps(float(0), float(0)))
+                parking = Parking(float(0), Gps(float(0), float(0)))
 
             aggregated_data.append(
                 AggregatedData(

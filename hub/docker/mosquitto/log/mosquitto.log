@@ -70,3 +70,10 @@
 1710274645: mosquitto version 2.0.18 running
 1710274649: New connection from 192.168.0.3:43331 on port 1883.
 1710274649: New client connected from 192.168.0.3:43331 as auto-231E0BA2-E6E1-9CC0-BA9C-0BAB89292210 (p2, c1, k60).
+1710450934: mosquitto version 2.0.18 starting
+1710450934: Config loaded from /mosquitto/config/mosquitto.conf.
+1710450934: Opening ipv4 listen socket on port 1883.
+1710450934: Opening ipv6 listen socket on port 1883.
+1710450934: mosquitto version 2.0.18 running
+1710450939: New connection from 172.21.0.3:49837 on port 1883.
+1710450939: New client connected from 172.21.0.3:49837 as auto-ACC2F258-22B5-10BE-A905-953D82A895E2 (p2, c1, k60).
